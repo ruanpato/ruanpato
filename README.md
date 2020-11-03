@@ -1,4 +1,4 @@
-## 👋 Hi there ##
+## **[![Greetings](https://polite-greetings.herokuapp.com/greetings/svg)](https://github.com/ruanpato/polite-greetings/)** ##
 
 <!--
 Icons: https://simpleicons.org/
@@ -15,7 +15,8 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 
 - 🎓 Computer Science Undergraduate at [UFFS](https://www.uffs.edu.br/);
 - 👨‍💻 Devlopment Internship at [UFFS](https://www.uffs.edu.br/);
-- 👔 VP on [FronteiraTec](https://fronteiratec.com/);
+- 👔 VP on [FronteiraTec](https://github.com/fronteiratec);
+- 👥 President at [Computer Science Students Union](https://github.com/caccuffs) of [UFFS](https://www.uffs.edu.br/).
 
 **Some Tools i already used**
 <p id="programming_languages">

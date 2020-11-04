@@ -1,4 +1,4 @@
-## **[![Greetings](https://polite-greetings.herokuapp.com/greetings/svg)](https://github.com/ruanpato/polite-greetings/)** ##
+## **[![Greetings](https://polite-greetings.herokuapp.com/greetings/image)](https://github.com/ruanpato/polite-greetings/)** ##
 
 <!--
 Icons: https://simpleicons.org/

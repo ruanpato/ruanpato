@@ -1,4 +1,5 @@
-## **[![Greetings](https://polite-greetings.herokuapp.com/greetings/image)](https://github.com/ruanpato/polite-greetings/)** ##
+<!-- Swagger: https://polite-greetings.herokuapp.com/ -->
+## **[![Greetings](https://polite-greetings.vercel.app/greetings/image)](https://github.com/ruanpato/polite-greetings/)** ##
 
 <!--
 Icons: https://simpleicons.org/

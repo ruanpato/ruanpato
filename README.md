@@ -40,6 +40,8 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
   <img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-%20%23white.svg?&style=for-the-badge&logo=Swagger&logoColor=white"/>
 </p>
 
 <p id="version_control">

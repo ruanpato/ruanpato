@@ -40,7 +40,6 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
   <img src="https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-%20%23white.svg?&style=for-the-badge&logo=Swagger&logoColor=white"/>
 </p>
 
@@ -52,6 +51,7 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB%20-%23003545.svg?&style=for-the-badge&logo=mariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 <p id="miscelaneous">

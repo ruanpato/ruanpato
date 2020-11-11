@@ -31,6 +31,7 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/pascal%20-%23036bfc.svg?&style=for-the-badge&logo=pascal&logoColor=white"/>
 </p>
 

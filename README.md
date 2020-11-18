@@ -58,6 +58,8 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 <p id="miscelaneous">
   <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM%20-%23CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer%20-%23885630.svg?&style=for-the-badge&logo=Composer&logoColor=white"/>
 </p>
 
 <p align="center" id="jokes_card">

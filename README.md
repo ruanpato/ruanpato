@@ -15,7 +15,7 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 </p>
 
 - 🎓 Computer Science Undergraduate at [UFFS](https://www.uffs.edu.br/);
-- 👨‍💻 Development Internship at [UFFS](https://www.uffs.edu.br/);
+- 👨‍💻 Developer at [Schumann](https://br.linkedin.com/company/schumann-moveis-e-eletro-ltda);
 - 👔 VP on [FronteiraTec](https://github.com/fronteiratec);
 - 👥 President at [Computer Science Students Union](https://github.com/caccuffs) of [UFFS](https://www.uffs.edu.br/).
 

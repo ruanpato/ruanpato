@@ -1,5 +1,5 @@
 <!-- Swagger: https://polite-greetings.herokuapp.com/ -->
-## **[![Greetings](https://polite-greetings.herokuapp.com/greetings/image)](https://github.com/ruanpato/polite-greetings/)** ##
+## **[![Greetings](http://polite-greetings.herokuapp.com/api/v1/greetings?latLong=-15.7801%2C-47.9292&responseType=png&showTz=true)](https://github.com/ruanpato/polite-greetings/)** ##
 
 <!--
 Icons: https://simpleicons.org/

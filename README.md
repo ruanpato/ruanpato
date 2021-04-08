@@ -68,5 +68,5 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 
 ### :octocat: About me on Github ###
 
-[![ReadMe Github Stats](https://github-readme-stats.vercel.app/api?username=ruanpato&show_icons=true&title_color=00a83b&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpato&hide=TeX&layout=compact&theme=dracula&title_color=00a83b&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Github Stats](https://github-readme-stats.vercel.app/api?username=ruanpato&show_icons=true&title_color=00a83b&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpato&hide=TeX&layout=compact&title_color=00a83b&langs_count=10&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

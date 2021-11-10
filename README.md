@@ -15,8 +15,7 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 </p>
 
 - 🎓 Computer Science Undergraduate at [UFFS](https://www.uffs.edu.br/);
-- 👨‍💻 Software Developer at [Sossego](https://gitlab.com/sossego);
-- 👔 VP on [FronteiraTec](https://github.com/fronteiratec);
+- 👨‍💻 Mid Software Developer;
 
 **Some Tools i already used**
 <p id="programming_languages">

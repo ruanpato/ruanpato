@@ -15,7 +15,7 @@ BadgePattern: <img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>
 </p>
 
 - 🎓 Computer Science Undergraduate at [UFFS](https://www.uffs.edu.br/);
-- 👨‍💻 Mid Software Engineer;
+- 👨‍💻 Senior Software Engineer;
 
 **Some Tools i already used**
 <p id="programming_languages">

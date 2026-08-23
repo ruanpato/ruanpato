@@ -19,7 +19,7 @@ squad on an enterprise conversational-AI engagement.
 
 #### Currently
 
-- Writing an open technical handbook on production AI engineering
+- Writing [**Engenharia de IA em Produção**](https://ruanpato.com/production-ai-engineering/), an open technical handbook on production AI engineering (bilingual, PT-BR/EN — open draft)
 - Rebuilding [ruanpato.com](https://ruanpato.com) as a professional knowledge surface, readable by humans, machines and agents
 - Mentoring engineers growing from mid to senior and into technical leadership
 

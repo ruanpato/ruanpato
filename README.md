@@ -8,11 +8,11 @@ delivers it, and stay hands-on in the implementation.
 
 Currently Tech Lead / Specialist Software Engineer (GenAI) at Dataside, on a conversational-AI
 program for a market leader in a regulated industry. I provide technical leadership for two
-squads of software, AI and QA engineers and data scientists, working with content specialists,
-product managers and product owners, and I own the architecture of the engagements I work on.
-Recent work there: a shared retrieval platform for conversational assistants, a conversational
-channel taken through security review and penetration testing into production, and a
-distributed ML platform designed for a projected ~200 million new records per month.
+cross-functional teams, about a dozen people across engineering, data science, QA, content,
+product and design, and I own the architecture of the engagements I work on. Recent work there:
+a shared retrieval platform for conversational assistants, now in production; a conversational
+channel taken through security review and penetration testing into production; and a distributed
+ML platform designed for a projected ~200 million new records per month.
 
 #### What I work on
 
